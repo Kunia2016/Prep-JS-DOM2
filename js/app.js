@@ -24,3 +24,15 @@ window.onload = function(){
 
   generateDocument();
 };
+
+function myAwesomeWebApp (){
+var myName = Jason;
+var yourName = Joe;
+var neighborName = Victor;
+document.createElement(myAwesomeWebApp);
+
+
+}
+
+
+
